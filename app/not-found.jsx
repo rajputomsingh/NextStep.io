@@ -320,7 +320,7 @@ export default function NotFound() {
           </Link>
 
           <Link
-            href="https://github.com/Om-singh-ui/NextStep.io/issues"
+            href="https://github.com/rajputomsingh/NextStep.io/issues"
             target="_blank"
             rel="noopener noreferrer"
           >

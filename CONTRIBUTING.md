@@ -9,8 +9,8 @@ This guide outlines how both new and experienced contributors can get involved: 
 
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-ff69b4)](CODE_OF_CONDUCT.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-181717?logo=github)](https://github.com/Om-singh-ui/NextStep.io/pulls)
-[![First Timers Friendly](https://img.shields.io/badge/First_Timers-Friendly-blue)](https://github.com/Om-singh-ui/NextStep.io/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-181717?logo=github)](https://github.com/rajputomsingh/NextStep.io/pulls)
+[![First Timers Friendly](https://img.shields.io/badge/First_Timers-Friendly-blue)](https://github.com/rajputomsingh/NextStep.io/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ## Table of Contents
 
@@ -41,9 +41,9 @@ This project follows the [**Contributor Covenant**](https://www.contributor-cove
 
 ### Report a Bug
 
-[![Bug Reports](https://img.shields.io/badge/Bug-Report-red)](https://github.com/Om-singh-ui/NextStep.io/issues/new?template=bug_report.md)
+[![Bug Reports](https://img.shields.io/badge/Bug-Report-red)](https://github.com/rajputomsingh/NextStep.io/issues/new?template=bug_report.md)
 
-1. Search [existing issues](https://github.com/Om-singh-ui/NextStep.io/issues) to avoid duplicates
+1. Search [existing issues](https://github.com/rajputomsingh/NextStep.io/issues) to avoid duplicates
 2. Use the bug report template when creating a new issue
 3. Include the following:
    - Clear description of the bug
@@ -54,9 +54,9 @@ This project follows the [**Contributor Covenant**](https://www.contributor-cove
 
 ### Request a Feature
 
-[![Feature Requests](https://img.shields.io/badge/Feature-Request-blue)](https://github.com/Om-singh-ui/NextStep.io/issues/new?template=feature_request.md)
+[![Feature Requests](https://img.shields.io/badge/Feature-Request-blue)](https://github.com/rajputomsingh/NextStep.io/issues/new?template=feature_request.md)
 
-1. Search [existing feature requests](https://github.com/Om-singh-ui/NextStep.io/issues) to avoid duplicates
+1. Search [existing feature requests](https://github.com/rajputomsingh/NextStep.io/issues) to avoid duplicates
 2. Use the feature request template
 3. Describe:
    - The problem you're solving
@@ -66,7 +66,7 @@ This project follows the [**Contributor Covenant**](https://www.contributor-cove
 
 ### Improve Documentation
 
-[![Documentation](https://img.shields.io/badge/Docs-Improvement-success)](https://github.com/Om-singh-ui/NextStep.io/wiki)
+[![Documentation](https://img.shields.io/badge/Docs-Improvement-success)](https://github.com/rajputomsingh/NextStep.io/wiki)
 
 - Fix typos, improve clarity, or add examples
 - Create tutorials or guides for the community
@@ -74,7 +74,7 @@ This project follows the [**Contributor Covenant**](https://www.contributor-cove
 
 ### Submit Code (PRs)
 
-[![Pull Requests](https://img.shields.io/badge/Pull_Requests-Review-6f42c1)](https://github.com/Om-singh-ui/NextStep.io/pulls)
+[![Pull Requests](https://img.shields.io/badge/Pull_Requests-Review-6f42c1)](https://github.com/rajputomsingh/NextStep.io/pulls)
 
 1. Fork the repository
 2. Create a feature branch
@@ -85,7 +85,7 @@ This project follows the [**Contributor Covenant**](https://www.contributor-cove
 
 ## Getting Started (Local Development)
 
-[![Setup](https://img.shields.io/badge/Setup-Local_Development-0a0a0a)](https://github.com/Om-singh-ui/NextStep.io#installation)
+[![Setup](https://img.shields.io/badge/Setup-Local_Development-0a0a0a)](https://github.com/rajputomsingh/NextStep.io#installation)
 
 ### Prerequisites
 

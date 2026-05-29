@@ -3,7 +3,7 @@ name: "\U0001F4DD Custom Issue"
 about: Report a general issue or suggestion
 title: "[ISSUE]"
 labels: ''
-assignees: Om-singh-ui
+assignees: rajputomsingh
 
 ---
 

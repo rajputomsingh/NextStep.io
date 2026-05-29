@@ -3,7 +3,7 @@ name: Bug report
 about: Report a bug quickly
 title: "[BUG]"
 labels: bug
-assignees: Om-singh-ui
+assignees: rajputomsingh
 
 ---
 
