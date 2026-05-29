@@ -1060,7 +1060,7 @@ export default function Home() {
                     <CardItem
                       translateZ={20}
                       as="button"
-                      onClick={() => window.open("https://github.com/Om-singh-ui/NextStep.io", "_blank")}
+                      onClick={() => window.open("https://github.com/rajputomsingh/NextStep.io", "_blank")}
                       className="flex items-center gap-2 px-4 py-2 rounded-xl bg-black text-white dark:bg-white dark:text-black text-xs font-semibold hover:opacity-90 transition"
                     >
                       <Github className="w-4 h-4" />

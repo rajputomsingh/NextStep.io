@@ -13,10 +13,10 @@
 [![Clerk](https://img.shields.io/badge/Auth-Clerk-6C47FF?logo=clerk)](https://clerk.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[![Status](https://img.shields.io/badge/Status-Active_Development-blue)](https://github.com/Om-singh-ui/NextStep.io)
+[![Status](https://img.shields.io/badge/Status-Active_Development-blue)](https://github.com/rajputomsingh/NextStep.io)
 [![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)](CONTRIBUTING.md)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-purple)](https://github.com/Om-singh-ui/NextStep.io)
-[![3D Visualizations](https://img.shields.io/badge/3D-Visualizations-orange)](https://github.com/Om-singh-ui/NextStep.io)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-purple)](https://github.com/rajputomsingh/NextStep.io)
+[![3D Visualizations](https://img.shields.io/badge/3D-Visualizations-orange)](https://github.com/rajputomsingh/NextStep.io)
 
 
 ## Overview

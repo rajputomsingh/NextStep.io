@@ -38,7 +38,7 @@ function GithubStarCount() {
         setError(null);
 
         // Direct GitHub API call - no API route needed
-        const response = await fetch('https://api.github.com/repos/Om-singh-ui/NextStep.io', {
+        const response = await fetch('https://api.github.com/repos/rajputomsingh/NextStep.io', {
           headers: {
             'Accept': 'application/vnd.github.v3+json',
             // Optional: Add your token here if you have one
@@ -258,7 +258,7 @@ export default function HeaderClient() {
             {/* GitHub Star Count - Desktop */}
             <div className="hidden md:flex relative">
               <Link
-                href="https://github.com/Om-singh-ui/NextStep.io"
+                href="https://github.com/rajputomsingh/NextStep.io"
                 target="_blank"
                 className="peer flex items-center gap-2 px-3 py-1 rounded-full border border-gray-300/50 hover:border-blue-400/70 transition-all duration-300 hover:shadow-[0_0_15px_rgba(37,99,235,0.3)] bg-gradient-to-r from-gray-50/80 to-gray-100/60 dark:from-gray-800/80 dark:to-gray-900/60 hover:from-blue-50/80 hover:to-purple-50/60 dark:hover:from-blue-900/20 dark:hover:to-purple-900/20 backdrop-blur-sm"
               >
@@ -298,7 +298,7 @@ export default function HeaderClient() {
 
                     {/* Interactive hint with click functionality */}
                     <button
-                      onClick={() => window.open('https://github.com/Om-singh-ui/NextStep.io', '_blank')}
+                      onClick={() => window.open('https://github.com/rajputomsingh/NextStep.io', '_blank')}
                       className="flex items-center gap-1 mt-3 text-xs text-blue-600 dark:text-blue-400 opacity-80 hover:opacity-100 hover:text-blue-700 dark:hover:text-blue-300 transition-all duration-200 cursor-pointer group/button"
                     >
                       <span className="animate-bounce group-hover/button:scale-110 transition-transform">👉</span>
@@ -634,7 +634,7 @@ export default function HeaderClient() {
               {/* GitHub Star Count - Mobile */}
               <div className="flex justify-center pb-2 border-b border-gray-200/50">
                 <Link
-                  href="https://github.com/Om-singh-ui/NextStep.io"
+                  href="https://github.com/rajputomsingh/NextStep.io"
                   target="_blank"
                   className="flex items-center gap-2 px-3 py-1 rounded-full border border-gray-300/50 hover:border-blue-300/50 transition-all duration-300"
                 >

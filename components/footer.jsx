@@ -40,7 +40,7 @@ function GithubStarCount() {
 
         // Direct GitHub API call - no API route needed
         const response = await fetch(
-          "https://api.github.com/repos/Om-singh-ui/NextStep.io",
+          "https://api.github.com/repos/rajputomsingh/NextStep.io",
           {
             headers: {
               Accept: "application/vnd.github.v3+json",
@@ -451,7 +451,7 @@ export default function Footer() {
                     <Twitter className="w-6 h-6 group-hover:rotate-12 transition-transform" />
                     <span className="absolute -bottom-6 left-1/2 transform -translate-x-1/2 text-xs bg-gray-800 text-white px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">Follow us</span>
                   </Link>
-                  <Link href="https://github.com/Om-singh-ui" target="_blank" className="hover:text-blue-500 transition-all duration-300 hover:scale-110 transform relative group">
+                  <Link href="https://github.com/rajputomsingh" target="_blank" className="hover:text-blue-500 transition-all duration-300 hover:scale-110 transform relative group">
                     <Github className="w-6 h-6 group-hover:rotate-12 transition-transform" />
                     <span className="absolute -bottom-6 left-1/2 transform -translate-x-1/2 text-xs bg-gray-800 text-white px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">Star us</span>
                   </Link>
@@ -467,7 +467,7 @@ export default function Footer() {
                     {/* FIXED: Arrow appears when hovering the entire GitHub container */}
                     <div className="group/gh relative">
                       <Link
-                        href="https://github.com/Om-singh-ui/NextStep.io"
+                        href="https://github.com/rajputomsingh/NextStep.io"
                         target="_blank"
                         className="flex items-center gap-2 border border-gray-300 dark:border-gray-700 rounded-full px-3 py-1.5 hover:border-blue-500 hover:text-blue-500 transition-all duration-300 hover:shadow-md"
                       >
@@ -519,7 +519,7 @@ export default function Footer() {
                       <Twitter className="w-6 h-6 group-hover:rotate-12 transition-transform" />
                       <span className="absolute -bottom-6 left-1/2 transform -translate-x-1/2 text-xs bg-gray-800 text-white px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">Follow us</span>
                     </Link>
-                    <Link href="https://github.com/Om-singh-ui" target="_blank" className="hover:text-blue-500 transition-all duration-300 hover:scale-110 transform relative group">
+                    <Link href="https://github.com/rajputomsingh" target="_blank" className="hover:text-blue-500 transition-all duration-300 hover:scale-110 transform relative group">
                       <Github className="w-6 h-6 group-hover:rotate-12 transition-transform" />
                       <span className="absolute -bottom-6 left-1/2 transform -translate-x-1/2 text-xs bg-gray-800 text-white px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300 whitespace-nowrap">Star us</span>
                     </Link>
@@ -536,7 +536,7 @@ export default function Footer() {
                     {/* GitHub Star Count with Enhanced Tooltip */}
                     <div className="relative flex-0.5">
                       <Link
-                        href="https://github.com/Om-singh-ui/NextStep.io"
+                        href="https://github.com/rajputomsingh/NextStep.io"
                         target="_blank"
                         className="peer flex items-center gap-2 border border-gray-300 dark:border-gray-700 rounded-full px-3 py-1.5 hover:border-blue-500 hover:text-blue-500 transition-all duration-300 hover:shadow-md bg-gradient-to-r from-gray-50/80 to-gray-100/60 dark:from-gray-800/80 dark:to-gray-900/60 hover:from-blue-50/80 hover:to-purple-50/60 dark:hover:from-blue-900/20 dark:hover:to-purple-900/20 backdrop-blur-sm group"
                       >
@@ -576,7 +576,7 @@ export default function Footer() {
 
                             {/* Interactive hint with click functionality */}
                             <button
-                              onClick={() => window.open('https://github.com/Om-singh-ui/NextStep.io', '_blank')}
+                              onClick={() => window.open('https://github.com/rajputomsingh/NextStep.io', '_blank')}
                               className="flex items-center gap-1 mt-3 text-xs text-blue-600 dark:text-blue-400 opacity-80 hover:opacity-100 hover:text-blue-700 dark:hover:text-blue-300 transition-all duration-200 cursor-pointer group/button"
                             >
                               <span className="animate-bounce group-hover/button:scale-110 transition-transform">👉</span>
