@@ -35,7 +35,6 @@
     "@radix-ui/react-tabs": "^1.1.13",
     "@react-pdf/renderer": "^4.3.1",
     "@sparticuz/chromium": "^138.0.2",
-    "@sparticuz/chromium-min": "^138.0.2",
     "@splinetool/react-spline": "^4.1.0",
     "@splinetool/runtime": "^1.10.57",
     "@tabler/icons-react": "^3.36.0",
