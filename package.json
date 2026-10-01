@@ -17,6 +17,7 @@
     "@dnd-kit/utilities": "^3.2.2",
     "@google/generative-ai": "^0.24.1",
     "@hookform/resolvers": "^5.2.1",
+    "@opentelemetry/auto-instrumentations-node": "0.80.0",
     "@prisma/client": "^6.16.2",
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-alert-dialog": "^1.1.15",
@@ -39,14 +40,14 @@
     "@splinetool/runtime": "^1.10.57",
     "@tabler/icons-react": "^3.36.0",
     "@uiw/react-md-editor": "^4.0.8",
-    "axios": "^1.16.0",
+    "axios": "1.20.0",
     "bcryptjs": "^3.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "framer-motion": "^12.23.12",
     "html2pdf.js": "^0.14.0",
-    "inngest": "^4.2.4",
+    "inngest": "4.21.0",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.542.0",
     "motion": "^12.23.26",
@@ -56,7 +57,7 @@
     "openai": "^6.9.1",
     "pdf-lib": "^1.17.1",
     "pdfkit": "^0.17.2",
-    "puppeteer": "^24.21.0",
+    "puppeteer": "^25.12.0",
     "react": "19.1.0",
     "react-confetti": "^6.4.0",
     "react-countup": "^6.5.3",
@@ -71,13 +72,21 @@
     "zod": "^4.1.13"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4",
-    "eslint": "^9",
-    "eslint-config-next": "15.5.3",
-    "inngest-cli": "^1.17.1",
+    "@eslint/eslintrc": "^3.3.7",
+    "@tailwindcss/postcss": "4.3.3",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "15.5.27",
+    "inngest-cli": "1.45.1",
     "prisma": "^6.16.0",
-    "tailwindcss": "^4",
+    "tailwindcss": "4.3.3",
     "tw-animate-css": "^1.3.8"
+  },
+  "pnpm": {
+    "overrides": {
+      "brace-expansion": "5.0.12",
+      "deepmerge-ts": "8.0.2",
+      "adm-zip": "0.6.1",
+      "postcss": "8.5.28"
+    }
   }
 }
